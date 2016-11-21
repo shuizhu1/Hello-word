@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<head>
+  <meat charget="utf-8">
+  <titile>practice</title>
+  <style>
+    *{margin:0px;padding:0px;}
+    body{font-size:16px;font-family:'yahe','宋体';background:#ccc;}
+    h3{text-align:center;color:white;margin:10px;}
+    h5{text-align:center;}
+    hr{width:50%;margin:auto;margin-top:5px;}
+    ul{list-style:none;}
+  </style>
+</head>
+<body>
+  <div>
+    <h3>The is my  one parctice in gitbut</h3>
+    <h5>hemin</h5><hr>
+  </div>
+  <div>
+    <ul>
+      <li><a href="">plan</a></li>
+      <li><a href="">intering</a></li>
+      <li><a href="">Nasty things</a></li>
+    </ul>
+  </div>
+  
+</body>
